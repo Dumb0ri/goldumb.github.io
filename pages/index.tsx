@@ -102,7 +102,7 @@ export default function Home() {
                     <div className="absolute bottom-5 right-5">
                         <p className="text-[10px] mt-[45%]">
                             &#169; Copyright 2023{" "}
-                            <a href="https://github.com/noobnuby">noobnuby</a>
+                            <a href="https://github.com/dumb0ri">goldumb</a>
                         </p>
                         <p className="text-[10px] text-right">
                             All rights reserved
