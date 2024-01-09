@@ -87,7 +87,7 @@ export default function Home() {
                                 .typeString("I create reliable outcomes.")
                                 .pauseFor(3000)
                                 .deleteAll()
-                                .typeString("I'm also dumb")
+                                .typeString("I'm also dumb.")
                                 .pauseFor(3000)
                                 .deleteAll()
                                 .start();
@@ -102,7 +102,7 @@ export default function Home() {
                     <div className="absolute bottom-5 right-5">
                         <p className="text-[10px] mt-[45%]">
                             &#169; Copyright 2023{" "}
-                            <a href="https://github.com/dumb0ri">goldumb</a>
+                            <a href="https://github.com/dumb0ri">Goldumb</a>
                         </p>
                         <p className="text-[10px] text-right">
                             All rights reserved
