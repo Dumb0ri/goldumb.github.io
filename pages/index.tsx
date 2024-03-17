@@ -83,7 +83,7 @@ export default function Home() {
                                 .deleteAll()
                                 .typeString("Zest Guild Staff")
                                 .pauseFor(3000)
-                                .deleteall()
+                                .deleteAll()
                                 .typeString("Minecraft enthusiast.")
                                 .pauseFor(3000)
                                 .deleteAll()
