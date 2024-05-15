@@ -13,7 +13,7 @@ function discord() {
     alert("@goldumb");
 }
 function easteregg() {
-    alert("IM THE BEST");
+    alert("ON TOP");
 }
 
 export default function Home() {
@@ -78,13 +78,10 @@ export default function Home() {
                                 .typeString("RBW Moderator")
                                 .pauseFor(3000)
                                 .deleteAll()
-                                .typeString("KRBW Sr.Moderator")
+                                .typeString("KRBW Admin")
                                 .pauseFor(3000)
                                 .deleteAll()
                                 .typeString("Zest Guild Staff")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("Minecraft Enthusiast")
                                 .pauseFor(3000)
                                 .deleteAll()
                                 .typeString("I Create Reliable Outcomes")
@@ -108,7 +105,7 @@ export default function Home() {
                             <a href="https://github.com/noobnuby">noobnuby</a>
                         </p>
                         <p className="text-[10px] text-right">
-                            All rights reserved
+                            All Rights Reserved
                         </p>
                     </div>
                 </footer>
