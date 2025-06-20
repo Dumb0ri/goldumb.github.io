@@ -66,30 +66,7 @@ export default function Home() {
                                 .typeString("#Hello, World!")
                                 .pauseFor(3000)
                                 .deleteAll()
-                                .typeString("#Age 16")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("#Developer")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("#Translator")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("RBW Moderator")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("KRBW Admin")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("Zest Guild Staff")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("I Create Reliable Outcomes")
-                                .pauseFor(3000)
-                                .deleteAll()
-                                .typeString("I'm Also Dumb")
-                                .pauseFor(3000)
-                                .deleteAll()
+                            
                                 .start();
                         }}
                     />
@@ -101,7 +78,7 @@ export default function Home() {
                 <footer>
                     <div className="absolute bottom-5 right-5">
                         <p className="text-[10px] mt-[45%]">
-                            &#169; Copyright 2024{" "}
+                            &#169; Copyright 2025{" "}
                             <a href="https://github.com/noobnuby">noobnuby</a>
                         </p>
                         <p className="text-[10px] text-right">
